@@ -34,3 +34,8 @@ poetry install
 python test.py
 ```
 跳圖片出來就是成功
+
+## 參考
+[https://blog.kyomind.tw/python-poetry/](https://blog.kyomind.tw/python-poetry/)
+
+[https://python-poetry.org/docs/](https://python-poetry.org/docs/)
