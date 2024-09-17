@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "image_processing"
+name = "image_processing_test"
 version = "0.1.0"
 description = ""
 authors = ["erer"]
