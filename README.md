@@ -29,7 +29,12 @@ poetry install
 ```
 下載package
 
-5. 測試程式
+5. 開啟poetry 的環境
+```bash
+poetry shell
+```
+
+6. 測試程式
 ```bash
 python test.py
 ```
