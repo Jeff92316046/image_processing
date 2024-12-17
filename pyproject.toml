@@ -18,6 +18,8 @@ imutils = "^0.5.4"
 pillow = "^10.4.0"
 json-minify = "^0.3.0"
 opencv-python = "^4.10.0.84"
+h5py = "^3.12.1"
+progressbar = "^2.5"
 
 
 [build-system]

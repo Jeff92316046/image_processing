@@ -120,7 +120,8 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
-
+assets/caltech101/*
+assets/sceneclass13/*
 # Environments
 .env
 .venv

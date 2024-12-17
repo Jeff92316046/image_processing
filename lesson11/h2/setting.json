@@ -1,5 +1,5 @@
 {
-    "image_dataset": "lesson11/h2/caltech101/101_ObjectCategories/car_side",
-    "image_annotations": "lesson11/h2/caltech101/Annotations/car_side",
-    "image_distractions": "lesson11/h2/sceneclass13"
+    "image_dataset": "assets/caltech101/101_ObjectCategories/car_side",
+    "image_annotations": "assets/caltech101/Annotations/car_side",
+    "image_distractions": "assets/sceneclass13"
 }
